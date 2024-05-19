@@ -1,5 +1,5 @@
 import RenderClass from '@/app/components/RenderClass'
-import Styles from '@/app/home/[teacher]/[teacherId]/[grade]/takeattendance/page.module.css'
+import Styles from '@/app/home/[teacher]/[teacherId]/[grade]/takeAttendance/page.module.css'
 import { useEffect, useState } from 'react'
 import studentsClass from "@/data/students.json"
 import getStudents from '@/lib/getStudents'

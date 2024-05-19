@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import studentsClass from "@/data/students.json"
-import Styles from '@/app/home/[teacher]/[teacherId]/[grade]/takeattendance/page.module.css'
+import Styles from '@/app/home/[teacher]/[teacherId]/[grade]/takeAttendance/page.module.css'
 import recordAttendance from "@/lib/recordStudents"
 
 type Props = {
