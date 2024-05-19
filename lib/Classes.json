@@ -1,0 +1,42 @@
+{
+    "teacher": "Fernanda",
+    "teacherId": 1,
+    "classes": [
+        {
+            "class": "1º Ano",
+            "room": "L1",
+            "grade": "1",
+            "period": "Vespertino"
+        },
+        {
+            "class": "2º Ano",
+            "room": "L2",
+            "grade": "2",
+            "period": "Vespertino"
+        },
+        {
+            "class": "3º Ano",
+            "room": "L3",
+            "grade": "3",
+            "period": "Vespertino"
+        },
+        {
+            "class": "4º Ano",
+            "room": "L4",
+            "grade": "4",
+            "period": "Vespertino"
+        },
+        {
+            "class": "5º Ano",
+            "room": "L5",
+            "grade": "5",
+            "period": "Vespertino"
+        },
+        {
+            "class": "6º Ano",
+            "room": "L6",
+            "grade": "6",
+            "period": "Vespertino"
+        }
+    ]
+}

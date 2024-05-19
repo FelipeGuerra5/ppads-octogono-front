@@ -1,0 +1,56 @@
+.main {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.attendanceInfo {
+    margin: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.information {
+    padding: 15px;
+}
+
+.studentsListContainer {
+    height: 100%;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.studentsList {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.selectStudentActive {
+    width: 130px;
+    height: 50px;
+    flex: 1 0 20%;
+    margin: 10px;
+    border-radius: 15px;
+    border-width: 0px;
+    background-color: rgb(71, 86, 99);
+}
+
+.selectStudentActive:hover {
+    box-shadow: rgba(255, 255, 255, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+}
+
+.studentLink {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
