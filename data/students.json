@@ -1,108 +1,108 @@
 {
-    "period": "Verpertino",
+    "period": "Vespertino",
     "schoolGrade": 6,
-    "class": "Português",
-    "teacher": "Fernanda",
-    "attendance": 1,
+    "classMeta": "Português",
+    "teacher": 1,
+    "date": "2024-03-31",
     "studentsList": [
         {
-            "name": "Alexander",
-            "id": 1,
+            "student": 1,
+            "name": "João Silva",
             "attending": true
         },
         {
-            "name": "Amelia",
-            "id": 2,
+            "student": 2,
+            "name": "Maria Oliveira",
             "attending": true
         },
         {
-            "name": "Ava",
-            "id": 3,
+            "student": 3,
+            "name": "Lucas Santos",
             "attending": true
         },
         {
-            "name": "Benjamin",
-            "id": 4,
+            "student": 4,
+            "name": "Ana Costa",
             "attending": true
         },
         {
-            "name": "Charlotte",
-            "id": 5,
+            "student": 5,
+            "name": "Felipe Souza",
             "attending": true
         },
         {
-            "name": "Daniel",
-            "id": 6,
+            "student": 6,
+            "name": "Julia Rocha",
             "attending": true
         },
         {
-            "name": "Ella",
-            "id": 7,
+            "student": 7,
+            "name": "Pedro Almeida",
             "attending": true
         },
         {
-            "name": "Emily",
-            "id": 8,
+            "student": 8,
+            "name": "Carla Lima",
             "attending": true
         },
         {
-            "name": "Emma",
-            "id": 9,
+            "student": 9,
+            "name": "André Pereira",
             "attending": true
         },
         {
-            "name": "Ethan",
-            "id": 10,
+            "student": 10,
+            "name": "Fernanda Gomes",
             "attending": true
         },
         {
-            "name": "Isabella",
-            "id": 11,
+            "student": 11,
+            "name": "Gabriel Martins",
             "attending": true
         },
         {
-            "name": "Jacob",
-            "id": 12,
+            "student": 12,
+            "name": "Camila Leão",
             "attending": true
         },
         {
-            "name": "James",
-            "id": 13,
+            "student": 13,
+            "name": "Rafael Barros",
             "attending": true
         },
         {
-            "name": "Joshua",
-            "id": 14,
+            "student": 14,
+            "name": "Patricia Figueiredo",
             "attending": true
         },
         {
-            "name": "Matthew",
-            "id": 15,
+            "student": 15,
+            "name": "Bruno Oliveira",
             "attending": true
         },
         {
-            "name": "Mia",
-            "id": 16,
+            "student": 16,
+            "name": "Sofia Cardoso",
             "attending": true
         },
         {
-            "name": "Michael",
-            "id": 17,
+            "student": 17,
+            "name": "Tiago Silva",
             "attending": true
         },
         {
-            "name": "Olivia",
-            "id": 18,
+            "student": 18,
+            "name": "Leticia Souza",
             "attending": true
         },
         {
-            "name": "Sophia",
-            "id": 19,
+            "student": 19,
+            "name": "Caio Cunha",
             "attending": true
         },
         {
-            "name": "William",
-            "id": 20,
+            "student": 20,
+            "name": "Isabela Dias",
             "attending": true
         }
     ]
